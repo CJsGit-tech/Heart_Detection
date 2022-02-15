@@ -44,3 +44,6 @@ Number of predictions where iou < threshold(0.5): 10
 
 #### GIF Result for TF Object Detection API:
 <img src = "images/heart_detector_TF_ObjectDetection_API.gif">
+
+#### GIF Result for TF Object Detection API Tuned Results:
+<img src = "images/heart_detector_TF_ObjectDetection_API_Tuned.gif">
